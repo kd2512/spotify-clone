@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Points to notice
+
+Through this clone app we can directly play/pause/change music in our original spotify player opened in a different tab.
+
+### Prerequisites
+
+To allow the app to proper function one must have below points cleared:
+
+1. Spotify premium account is required.
+2. Must have original spotify player running in a different tab.
+
